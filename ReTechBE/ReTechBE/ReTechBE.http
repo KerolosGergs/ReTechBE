@@ -1,0 +1,6 @@
+@ReTechBE_HostAddress = http://localhost:5027
+
+GET {{ReTechBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

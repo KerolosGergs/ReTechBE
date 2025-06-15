@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\wwwroot\\Images\\7a033819-2f5e-403b-b6b7-84cb0ba6c0dd.jpg",
+      "PackagePath": "staticwebassets\\Images\\7a033819-2f5e-403b-b6b7-84cb0ba6c0dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\wwwroot\\Images\\909eb19d-cc14-4340-b445-b17143b6e2b4.png",
+      "PackagePath": "staticwebassets\\Images\\909eb19d-cc14-4340-b445-b17143b6e2b4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\wwwroot\\Images\\9abbac43-af49-48c2-81a5-5084c42cfc7d.jpg",
+      "PackagePath": "staticwebassets\\Images\\9abbac43-af49-48c2-81a5-5084c42cfc7d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReTechBE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReTechBE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReTechBE.props",
+      "PackagePath": "build\\ReTechBE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReTechBE.props",
+      "PackagePath": "buildMultiTargeting\\ReTechBE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReTechBE.props",
+      "PackagePath": "buildTransitive\\ReTechBE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "5lacPKnYqvwuBeDic5rFLo2BSp+EHG82z0Zmn9sRijY=",
+  "Source": "ReTechBE",
+  "BasePath": "_content/ReTechBE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReTechBE\\wwwroot",
+      "Source": "ReTechBE",
+      "ContentRoot": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\wwwroot\\",
+      "BasePath": "_content/ReTechBE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

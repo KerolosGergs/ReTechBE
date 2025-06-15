@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_2I4ELFV_SQLSERVER2019/ReTechDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\deductpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\deductpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|c:\\users\\kero\\desktop\\rashed\\retechbe\\retechbe\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A82D4-0177-4652-B107-BCDF87A92841}|ReTechBE\\ReTechBE.csproj|solutionrelative:retechbe\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Program.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\Program.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Program.cs",
+              "RelativeToolTip": "ReTechBE\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:03:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ReTechBE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAABgZmZmZmY0wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:40:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_2I4ELFV_SQLSERVER2019/ReTechDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_2I4ELFV_SQLSERVER2019/ReTechDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-15T02:14:54.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\RegisterDto.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:44:48.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\AuthRepo.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\AuthRepo.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwH8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:44:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\AuthResponseDto.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:44:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeductPointsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\DeductPointsDto.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\DeductPointsDto.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\DeductPointsDto.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\DeductPointsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:40:25.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReTechBE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:27:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ReTechBE\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:28:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\IAuthRepo.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:24:18.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "ReTechBE\\UserDTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Kero\\Desktop\\rashed\\ReTechBE\\ReTechBE\\UserDTO\\UserDto.cs",
+              "RelativeToolTip": "ReTechBE\\UserDTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:35:48.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
